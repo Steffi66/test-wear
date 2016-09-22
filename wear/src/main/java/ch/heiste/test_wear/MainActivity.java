@@ -1,7 +1,7 @@
 package ch.heiste.test_wear;
 
 
-//FIrst
+//First
 
 import android.os.Bundle;
 import android.support.wearable.activity.WearableActivity;
